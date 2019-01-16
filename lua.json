@@ -1,0 +1,7 @@
+{ 	
+	"url": "https://versaweb.dl.sourceforge.net/project/luabinaries/5.3.5/Tools%20Executables/lua-5.3.5_Win64_bin.zip", 	
+	"version": "5.3.5", 	
+	"bin": [ 		
+		["lua53.exe", "lua", ""] 	
+	] 
+}
